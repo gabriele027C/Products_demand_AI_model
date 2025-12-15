@@ -29,6 +29,3 @@ Optimize stock management decisions
 
 Create a solid foundation for future AI-driven business intelligence tools
 
-Step 1
-
-Main directories added : data, src, models, api, docker.
