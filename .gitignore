@@ -1,0 +1,25 @@
+### Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+### Virtual environments
+.venv/
+venv/
+env/
+
+### Notebooks
+.ipynb_checkpoints/
+
+### Logs
+*.log
+
+### IDE and tooling
+.idea/
+.vscode/
+
+### OS generated
+.DS_Store
+Thumbs.db
